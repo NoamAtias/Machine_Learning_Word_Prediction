@@ -1,6 +1,7 @@
 # Deep Learning Homework 2: Word Prediction
 
-Welcome to the repository for Homework 2 in the Deep Learning course. In this assignment, our goal is to build a neural network that can predict the next word in a sentence based on the previous three words. By training this prediction model, we will explore word representations and analyze the vector representations learned by our model.
+In this Homework, our goal is to build a neural network that can predict the next word in a sentence based on the previous three words. By training this prediction model, we will explore word representations and analyze the vector representations learned by our model.
+### This Homework was done together with Chanel Michaeli.
 
 ## Table of Contents
 
