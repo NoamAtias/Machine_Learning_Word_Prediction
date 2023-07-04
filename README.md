@@ -13,7 +13,6 @@ In this Homework, our goal is to build a neural network that can predict the nex
 - [Word Representations](#word-representations)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
